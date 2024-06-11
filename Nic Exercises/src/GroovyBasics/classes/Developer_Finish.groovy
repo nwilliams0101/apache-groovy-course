@@ -1,4 +1,4 @@
-class Developer {
+class otherDeveloper {
 
     String firstName
     String lastName
